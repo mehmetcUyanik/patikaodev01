@@ -19,3 +19,26 @@ Bu ödevde **git** canlı derslerinde öğrendiğimiz komutların ve **markdown*
 - **git clone**: Repodan projenin kopyasını localde oluşturma.
 - **git push**: Commitlerin repoya gönderilmesi.
 - **git diff**: Local ile repo farkını gösterir.
+
+
+## Markdown
+
+> Yaygın olarak kullanılan markdown yazım biçimlerine örnekler
+
+# Lorem Ipsum
+## Lorem Ipsum
+### Lorem Ipsum
+
+  **Lorem Ipsum**
+
+[Lorem Ipsum](https://tr.wikipedia.org/wiki/Lorem_Ipsum)
+
+>Lorem Ipsum
+
+- Lorem Ipsum
+
+_Lorem Ipsum_
+
+~~Lorem Ipsum~~
+
+``Lorem Ipsum``
