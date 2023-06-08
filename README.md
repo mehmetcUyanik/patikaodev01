@@ -46,3 +46,7 @@ _Lorem Ipsum_
 ## Github Link
 
 [Github Profilim](https://github.com/mehmetcUyanik)
+
+## Ödevin Github Linki
+
+[Projenin Github Linki](https://github.com/mehmetcUyanik/patikaodev01)
