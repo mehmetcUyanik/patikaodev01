@@ -50,3 +50,5 @@ _Lorem Ipsum_
 ## Ödevin Github Linki
 
 [Projenin Github Linki](https://github.com/mehmetcUyanik/patikaodev01)
+
+![Github Görseli](https://cdn.thenewstack.io/media/2022/11/fb6f0845-github-lab.jpg)
